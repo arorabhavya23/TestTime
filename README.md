@@ -1,2 +1,2 @@
 # TestTime
-A small example for the t=online test which shows the number of correct questions attempted
+A small example for the online test which shows the number of correct questions attempted
